@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Space Mono';
+    src: url(../assets/fonts/sapce/SpaceMono-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Work Sans';
+    src: url(../assets/fonts/worksans/WorkSans-Medium.ttf);
+}
